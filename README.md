@@ -1,4 +1,4 @@
-# Zadanie
+# Zadanie (rozszerzenie zadania z labratorium 5)
 
 System bankowy pozwala na zlecenie operacji bankowych na rachunku klienta.
 Do takich operacji należą:
