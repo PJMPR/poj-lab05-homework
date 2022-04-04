@@ -7,7 +7,7 @@ Do takich operacji należą:
 * wykonanie przelewu z konta na konto - możliwe gdy na koncie jest wystarczająca ilość środków
     + przelewy wykonywane są 2 razy dziennie
 
-Każda taka operacja jest odkładana w historii rachunku bankowego, bądź rachunków w przypadku transferu śrdków.
+Każda taka operacja jest odkładana w historii rachunku bankowego, bądź rachunków w przypadku transferu środków.
 Klient banku może przeglądać historię swojego konta z wybranego przedziału czasowego.
 
 Zaprojektuj zestaw klas, które będą modelowały zachowanie historii rachunku bankowego oraz napisz logikę, dzięki której będzie można wybrać logi historii z dowolnego przedziału czasowego.
